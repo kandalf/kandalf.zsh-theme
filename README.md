@@ -23,4 +23,4 @@ ZSH_THEME="kandalf"
 Screenshot
 ----------
 
-![http://cl.ly/image/2a0s2J0K0a04]
+!(http://cl.ly/image/2a0s2J0K0a04)
